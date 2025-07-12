@@ -1,12 +1,43 @@
-# React + Vite
+# 🧠 WEBAID – Smart, Simple & Fast Web Tools Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WEBAID is a modern, frontend-only utility website built with **React.js**. It provides a suite of powerful tools designed for developers, writers, designers, students, and everyday users — all in one place.
 
-Currently, two official plugins are available:
+> ⚡ No backend. No bloat. Just useful tools, instantly accessible.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌐 [Visit WEBAID Now](https://webaid-io.web.app/)
+
+---
+
+## ✨ Features
+
+- 🔤 **Case Converter** – Convert text between uppercase, lowercase, capitalized, etc.
+- 📄 **Lorem Ipsum Generator** – Generate placeholder content for your designs.
+- ✍️ **Text to Handwriting** – Turn typed text into realistic handwritten style.
+- 🧠 **Bionic Reading Converter** – Enhance readability with bionic formatting.
+- 🔢 **Letter Counter** – Count characters, words, and line breaks instantly.
+- 🧹 **Whitespace Remover** – Remove extra spaces, tabs, and blank lines from text.
+- 🎨 **Google Fonts Pair Finder** – Discover perfect font combinations.
+- 🤖 **AI Meta Tag Generator (Optional)** – Generate SEO metadata using Genkit AI *(API key required)*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js
+- **State Management**: React Hooks
+- **Styling**: CSS / Tailwind (if used)
+- **AI Integration**: Genkit AI (via API Key)
+- **Hosting**: GitHub Pages / Vercel / Netlify (recommended)
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/webaid.git
+cd webaid
+npm install
